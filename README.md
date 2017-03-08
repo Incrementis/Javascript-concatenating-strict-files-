@@ -5,4 +5,3 @@ The project is still in work and the following will be done:
 
 1. The wiki link in index.html files needs to be corrected.
 2. A wiki should be created and written.
-3. Some Gulp files should be uploaded. 

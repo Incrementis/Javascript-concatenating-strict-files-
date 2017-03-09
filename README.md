@@ -1,5 +1,4 @@
 # Javascript-concatenating-strict-files-
-Checking how strict mode works when concatenating two js files
-The project is still in work and the following will be done:
-
-1. A wiki should be created and written.
+Checking how strict mode works when concatenating two js files.
+For more information please visit the wiki for this project:
+https://github.com/Incrementis/Javascript-concatenating-strict-files-/wiki

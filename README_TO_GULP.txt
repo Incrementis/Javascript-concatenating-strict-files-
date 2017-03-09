@@ -18,10 +18,14 @@ Step 6 – Install Plugin
 To install the needed plugin type 'npm install --save-dev gulp-concat'.
 
 Step 7 – Create "gulpfile.js"
-As last step create "gulpfile.js". In this file there should be the needed code for using plugins.  
+As forelast step create "gulpfile.js". In this file there should be the needed code for using plugins.  
+
+Step 8 - Concatenate
+Finally type 'gulp script1' press enter and than type 'gulp script2'. 'scrip1' and 'script2' are the task names
+given by code in "gulpfile.js".
 
 NOTE:
-These are minima explained steps for installing and using GULP. 
+These are minimal explained steps for installing and using Gulp. 
 For deep understanding Gulp, please use internet and/or these following links:
 
 Author: Tech CBT
